@@ -9,6 +9,6 @@ var UnminedMapProperties = {
     maxRegionX: 13,
     maxRegionZ: 12,
     worldName: "Map of Gabe's World",
-    background: "IMG_2355.jpg",
+    background: "black",
     markers: new Array()
 }
