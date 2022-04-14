@@ -332,6 +332,34 @@ UnminedCustomMarkers = {
             font: "bold 20px Calibri,sans serif",
         },
 
+// Update 3
+        
+	{
+            x: -854,
+            z: 756,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Riverhelm",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+        {
+            x: -733,
+            z: 256,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Port Southtree",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
 
 
         // do not delete the following two closing brackets
