@@ -101,7 +101,7 @@ UnminedCustomMarkers = {
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
-            text: "Andrewtopia",
+            text: "Derptopia",
             textColor: "red", 
             offsetX: 0,
             offsetY: 20,
@@ -349,7 +349,7 @@ UnminedCustomMarkers = {
 
         {
             x: -733,
-            z: 256,
+            z: 2256,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
