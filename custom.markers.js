@@ -312,7 +312,7 @@ UnminedCustomMarkers = {
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
-            text: "Eastport",
+            text: "Bingleton",
             textColor: "red", 
             offsetX: 0,
             offsetY: 20,
@@ -359,6 +359,91 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 20px Calibri,sans serif",
         },
+
+// Update 4
+
+        {
+            x: 218,
+            z: 2491,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Conortown",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+        {
+            x: -1268,
+            z: 3435,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Yeezyville",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+        {
+            x: -746,
+            z: 3121,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Virbank",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+        {
+            x: -2168,
+            z: 1867,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Quentown",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+        {
+            x: -1466,
+            z: 1052,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Fort Arnold",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+        {
+            x: -1420,
+            z: 555,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Shawntown",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+
+
+
+
 
 
 
