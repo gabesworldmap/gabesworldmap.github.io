@@ -441,7 +441,20 @@ UnminedCustomMarkers = {
         },
 
 
+// Update 5
 
+        {
+            x: 2335,
+            z: 645,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Citria",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
 
 
 
